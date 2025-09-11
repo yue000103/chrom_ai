@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
-    <file url="file://$PROJECT_DIR$/findpeaks.py" charset="GBK" />
     <file url="file://$PROJECT_DIR$/硬件接口文档/collect/multi_valve.py" charset="GBK" />
     <file url="file://$PROJECT_DIR$/硬件接口文档/collect/qipao.py" charset="GBK" />
     <file url="file://$PROJECT_DIR$/硬件接口文档/collect/single_valve.py" charset="GBK" />
     <file url="file://$PROJECT_DIR$/硬件接口文档/host/relay_base.py" charset="GBK" />
     <file url="file://$PROJECT_DIR$/硬件接口文档/host/relay_base.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/自动梯度算法/findpeaks.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/自动梯度算法/findpeaks.py" charset="GBK" />
   </component>
 </project>

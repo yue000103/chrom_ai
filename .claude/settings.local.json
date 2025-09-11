@@ -1,7 +1,19 @@
 {
   "permissions": {
     "allow": [
-      "Bash(dir:*)"
+      "Bash(dir:*)",
+      "Bash(python:*)",
+      "Bash(curl:*)",
+      "Bash(npm install)",
+      "Bash(npm run dev:*)",
+      "Bash(timeout:*)",
+      "Bash(start http://localhost:3002)",
+      "Bash(pip install:*)",
+      "Bash(npm install:*)",
+      "Bash(npm start)",
+      "Bash(set SKIP_PREFLIGHT_CHECK=true)",
+      "Bash(taskkill:*)",
+      "Bash(rd:*)"
     ],
     "deny": [],
     "ask": []
