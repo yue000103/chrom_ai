@@ -13,7 +13,15 @@
       "Bash(npm start)",
       "Bash(set SKIP_PREFLIGHT_CHECK=true)",
       "Bash(taskkill:*)",
-      "Bash(rd:*)"
+      "Bash(rd:*)",
+      "Read(//d/back/chromatography_system/frontend/**)",
+      "Bash(move RealtimeMonitoring.vue RealtimeMonitoring.vue.bak)",
+      "Bash(move RealtimeMonitoringNew.vue RealtimeMonitoring.vue)",
+      "Read(//d/back/chromatography_system/backend/**)",
+      "Bash(cat:*)",
+      "Bash(find:*)",
+      "Bash(git checkout:*)",
+      "Bash(git restore:*)"
     ],
     "deny": [],
     "ask": []
